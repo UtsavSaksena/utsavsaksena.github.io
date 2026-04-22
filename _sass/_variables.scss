@@ -53,19 +53,17 @@ $max-content-width: 930px !default;
 
 // --- VERIFIED NAVY OVERRIDE ---
 // Global Theme Colors (Light Mode)
-$global-theme-color:       #002147 !global; // Oxford Navy
-$global-theme-color-light: #003c81 !global; // Lighter Navy for hovers
-$global-bg-color:          #ffffff !global;
-$global-text-color:        #212529 !global; // Deep Charcoal (better than pure black)
-$global-link-color:        #002147 !global;
-
+$global-theme-color:       #002147; // Oxford Navy
+$global-theme-color-light: #003c81; // Lighter Navy for hovers
+$global-bg-color:          #ffffff;
+$global-text-color:        #212529; // Deep Charcoal (better than pure black)
+$global-link-color:        #002147;
 // Global Theme Colors (Dark Mode)
-$global-theme-color-dark:  #5393ff !global; // Bright Blue for contrast on dark
-$global-bg-color-dark:     #121212 !global; // True Dark
-$global-text-color-dark:   #e0e0e0 !global; // Light Grey
-$global-link-color-dark:   #82b1ff !global;
-
+$global-theme-color-dark:  #5393ff; // Bright Blue for contrast on dark
+$global-bg-color-dark:     #121212; // True Dark
+$global-text-color-dark:   #e0e0e0; // Light Grey
+$global-link-color-dark:   #82b1ff;
 // Progress Bar & Search Fix
-$progress-bar-color:       $global-theme-color !global;
-$code-bg-color-light:      rgba(0, 33, 71, 0.05) !global;
+$progress-bar-color:       $global-theme-color;
+$code-bg-color-light:      rgba(0, 33, 71, 0.05); // overrides the purple one above
 // ------------------------------
