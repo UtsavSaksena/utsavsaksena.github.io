@@ -29,8 +29,8 @@ $grey-color-light: color.adjust($grey-color, $lightness: 40%);
 $grey-color-dark: #1c1c1d;
 $grey-900: #212529;
 
-$navy-color: #002147;
-$navy-color-light: #5393ff;
+$navy-color: #003580; // brighter, still deep blue
+$navy-color-light: #4a90d9; // lighter for dark mode
 
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
