@@ -26,7 +26,7 @@ nav_order: 2
         <div class="card h-100 hoverable">
           <div class="card-body">
             <h2 class="card-title">Podcast Interviews</h2>
-            <p class="card-text">Conversations on macroeconomics, digital currencies, and law.</p>
+            <p class="card-text">Conversations on economics and finance.</p>
           </div>
         </div>
       </a>
